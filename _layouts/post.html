@@ -2,5 +2,40 @@
 layout: default
 ---
 
-{{ content }}
+<h1>{{page.title}}</h1>
+
+<h3 class="text-muted">{{page.subtitle}}</h3>
+
+<hr>
+
+
+{% assign menu = site.data.menus[page.aplikasi] %}
+
+{% if menu %}
+
+<div class="row">
+	<div class="col-md-4">
+		<ul class="list-group">
+		{% for m in menu %}
+			<li class="list-group-item">
+				<a href="{{site.url}}/{{m.link}}">{{m.name}}</a>
+			</li>
+		{% endfor %}
+		</ul>
+	</div>
+	<div class="col-md-8">
+		{{ content }}
+	</div>	
+</div>
+
+{% else %}
+
+<div class="row">
+	<div class="col-md-8">
+		{{ content }}	
+	</div>
+</div>
+
+{% endif %}
+
 
