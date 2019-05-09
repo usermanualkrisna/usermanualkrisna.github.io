@@ -2,40 +2,60 @@
 layout: default
 ---
 
-<h1>{{page.title}}</h1>
+{% assign app = site.data.aplikasi[page.aplikasi] %}
 
-<h3 class="text-muted">{{page.subtitle}}</h3>
+<h1>{{app.title}}</h1>
+
+<h3 class="text-muted">{{app.subtitle}}</h3>
 
 <hr>
 
+<div class="row" style="margin-bottom: 3em;">
 
-{% assign menu = site.data.menus[page.aplikasi] %}
+{% if app.menus %}
 
-{% if menu %}
-
-<div class="row">
-	<div class="col-md-4">
+	<div class="col-md-5">
 		<ul class="list-group">
-		{% for m in menu %}
-			<li class="list-group-item">
-				<a href="{{site.url}}/{{m.link}}">{{m.name}}</a>
-			</li>
+		{% for m in app.menus %}
+			<a href="
+                {% if m[0] == "dasar" %}
+                    {{site.url}}
+                {% else %}
+                    {{site.url}}/{{m[0]}}
+                {% endif %}
+            " class="list-group-item list-group-item-action
+                    {% if m[0] == "dasar" and page.is-home %}
+                        active
+                    {% endif %}
+                    {% if m[0] == page.permalink %}
+                        active
+                    {% endif %}
+                ">
+                {% if m[0] == "dasar" %}
+                    Info Dasar
+                {% else %}
+                    {{m[1]}}
+                {% endif %}
+			</a>
 		{% endfor %}
 		</ul>
 	</div>
-	<div class="col-md-8">
+	<div class="col-md-7">
+        <h3>{{app.menus[page.permalink]}}</h3>
+        {% unless page.is-home %}
+            <hr>
+        {% endunless %}
 		{{ content }}
-	</div>	
+	</div>
 </div>
 
 {% else %}
 
-<div class="row">
-	<div class="col-md-8">
+	<div class="col-md-7">
 		{{ content }}	
 	</div>
-</div>
 
 {% endif %}
 
+</div>
 

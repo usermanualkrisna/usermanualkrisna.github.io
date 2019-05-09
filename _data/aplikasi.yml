@@ -1,0 +1,15 @@
+dasar:
+  title: "User Manual Aplikasi Krisna"
+  subtitle: "Dibuat secara <a href='https://github.com/usermanualkrisna/usermanualkrisna.github.io'>urun daya</a>." 
+  menus:
+    dasar: "Informasi Dasar"
+    kenapa-krisna-itu-penting: "Kenapa Krisna itu Penting?"
+    seperti-apa-perencanaan-dan-pembiayaan-NKRI: "Seperti Apa Perencanaan dan Pembiayaan NKRI?"
+    login-registrasi: "Cara Registrasi/Login"
+renjakl:
+  title: "RenjaKL"
+  subtitle: "Rencana Kerja Kementrian/Lembaga"
+  menus:
+    apa-itu-renjakl: "Apa Itu RenjaKL?"
+    cara-mengelola-visi-misi: "Cara Mengelola Visi Misi" 
+    cara-mengelola-sasaran-strategis: "Cara Mengelola Sasaran Strategis"
