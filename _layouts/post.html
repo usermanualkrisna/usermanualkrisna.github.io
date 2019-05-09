@@ -19,7 +19,7 @@ layout: default
 		{% for m in app.menus %}
 			<a href="
                 {% if m[0] == "dasar" %}
-                    /
+                    {{site.url}}
                 {% else %}
                     {{site.url}}/{{m[0]}}
                 {% endif %}
