@@ -6,18 +6,18 @@ permalink: apa-ujung-akhirnya
 
 *Let's begin with the end in mind...*
 
-*Mari kita mulai dengan membayangkan ujung akhirnya...*
+*Mari kita mulai dengan membayangkan ujung akhir dari proses bisnis yang dibantu Krisna...*
 
 Dari tulisan sebelumnya, [Kenapa Krisna itu Penting](/kenapa-krisna-itu-penting), kita telah tahu: Krisna itu penting untuk meningkatkan efektifitas & efesiensi penggunaan uang negara.
 
-Timbul pertanyaan, apa wujud konkrit dari 'penggunaan uang negara'? Jawabannya ada dua.
+Timbul pertanyaan, apa wujud konkrit dari 'penggunaan uang negara', sehingga kita bisa mengukur efektifitas & efesiensinya? Jawabannya ada dua.
 
-1. **Perencanaan**<br/>
-  Anggaran Pendapatan dan Belanja Negara (APBN)
-2. **Pelaksanaan**<br/>
-  Performa eksekusi ABPN itu sendiri
+1. **Rencana Belanja**<br/>
+  Terlihat di Anggaran Pendapatan dan Belanja Negara (APBN). ABPN yang efektif & efisien harusnya mengikuti prinsip ekonomi: dengan anggaran pengeluaran sekecil-kecilnya, mendapatkan hasil sebanyak-banyaknya.
+2. **Kinerja Eksekusi**<br/>
+  Performa pelaksanaan ABPN itu sendiri. Anggaran yang tidak jadi digunakan (baca: terserap) atau digunakan tapi tidak menghasilkan keluaran yang diinginkan, mengindikasikan performa eksekutor yang buruk dan/atau performa perencanaan yang buruk.
 
-Mari kita bahas keduanya.
+Karena inti dari keduanya ada di APBN, mari kita samakan dulu pemahaman.
 
 ##### APBN
 

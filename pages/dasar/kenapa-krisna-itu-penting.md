@@ -82,17 +82,19 @@ Serupa dengan kepolisian, jika organisasi seperti TNI ada dua, muncul peluang un
 
 Sayangnya, organisasi kenegaraan&mdash;sebagaimana semua organisasi raksasa lainnya&mdash;sulit untuk efektif & efisien. Belum lagi tentang oknum-oknum pencuri uang negara.
 
-Realitanya, semua aparat negara & program pembangunan butuh uang. Jika tidak efektif-efisien, pengeluaran jadi lebih besar dari pemasukan. Solusi negara ada dua: hutang & cetak uang. Keduanya perlu dikelola dengan hati-hati karena:
+Realitanya, semua aparat negara & program pembangunan butuh uang. Jika tidak efektif-efisien, pengeluaran jadi lebih besar dari pemasukan. Solusi negara ada dua: hutang & cetak uang[^sun]. Keduanya perlu dikelola dengan hati-hati karena:
 
 1. Hutang membebani anggaran di masa depan.
 2. Hutang berbunga.
 3. Hutang luar negeri bisa mengurangi independensi NKRI terhadap negara/lembaga pemberi hutang.
-4. Mencetak uang baru & mendistribusikannya ke dalam negeri akan menyebabkan inflasi. Inflasi 'mencuri' kekayaan kaum menengah & miskin (karena mereka biasanya hanya menyimpan kekayaan dalam bentuk uang, baik di dompet maupun di rekening bank). Mereka tidak sadar nilai kekayaannya berkurang karena&mdash;tidak seperti krisis moneter 98&mdash;terjadinya pelan-pelan.
+4. Mencetak uang baru & mendistribusikannya ke dalam negeri akan menyebabkan inflasi. Inflasi 'mencuri' kekayaan kaum menengah & miskin. Itu karena mereka biasanya hanya menyimpan kekayaan dalam bentuk uang, baik di dompet maupun di rekening bank. Mereka tidak sadar nilai kekayaannya berkurang karena&mdash;tidak seperti inflasi di krisis moneter 98&mdash;terjadinya pelan-pelan.
+
+[^sun]: Kementerian Keuangan melakukan ini melalui penerbitan [Surat Utang Negara](https://id.wikipedia.org/wiki/Surat_Utang_Negara), yang selanjutnya dibeli oleh Bank Indonesia dengan uang baru. Bank Indonesia adalah [lembaga negara independen](https://www.bi.go.id/id/tentang-bi/governance/process/hubungan-lembaga-lain/Contents/Default.aspx), tidak sejajar dengan / di bawah kementerian atau lembaga apapun.
 
 Aplikasi perencanaan dan pemantau kinerja anggaran seperti Krisna ini wajib ada, jika ingin:
 
-1. Uang pajak yang kita beri ke negara dibelanjakan dengan lebih efektif dan efisien.
-2. Uang kita di kantong dan rekening tidak tergerus parah oleh inflasi.
+1. Uang pajak yang kita beri ke negara dibelanjakan dengan lebih efektif dan efisien&mdash;karena perencanaan yang lebih baik dan defisit yang berkurang.
+2. Memperkecil kesenjangan sosial&mdash;akibat tergerusnya kekayaan kaum menengah/miskin oleh inflasi sementara kaum berpunya menabung aset.
 
 Krisna itu penting.
 
