@@ -16,8 +16,8 @@
 title: User Manual Krisna
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Tujuan situs ini: 1) panduan pengguna, 2) materi onboarding pengembang baru,
-  3) tempat penulisan requirement Krisna.systems di masa depan.
+  Tujuan situs ini: 1) panduan pengguna Krisna.systems, 2) materi onboarding pengembang baru,
+  3) tempat penulisan requirement di masa depan.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://usermanualkrisna.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 

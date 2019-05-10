@@ -89,7 +89,7 @@ Realitanya, semua aparat negara & program pembangunan butuh uang. Jika tidak efe
 3. Hutang luar negeri bisa mengurangi independensi NKRI terhadap negara/lembaga pemberi hutang.
 4. Mencetak uang baru & mendistribusikannya ke dalam negeri akan menyebabkan inflasi. Inflasi 'mencuri' kekayaan kaum menengah & miskin (karena mereka biasanya hanya menyimpan kekayaan dalam bentuk uang, baik di dompet maupun di rekening bank). Mereka tidak sadar nilai kekayaannya berkurang karena&mdash;tidak seperti krisis moneter 98&mdash;terjadinya pelan-pelan.
 
-Aplikasi perencanaan, penganggaran, dan pemantau seperti Krisna ini wajib ada, jika ingin:
+Aplikasi perencanaan dan pemantau kinerja anggaran seperti Krisna ini wajib ada, jika ingin:
 
 1. Uang pajak yang kita beri ke negara dibelanjakan dengan lebih efektif dan efisien.
 2. Uang kita di kantong dan rekening tidak tergerus parah oleh inflasi.
@@ -98,4 +98,4 @@ Krisna itu penting.
 
 Maka, sebagai pengguna atau pengembang Krisna, Anda telah membantu memperbaiki NKRI.
 
-Lanjut ke poin berikutnya. [Seperti apa perencanaan & pembiayaan NKRI?](/seperti-apa-perencanaan-dan-pembiayaan-NKRI)
+Lanjut ke poin berikutnya. [Apa Ujung Akhirnya?](/apa-ujung-akhirnya)
