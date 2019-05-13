@@ -48,7 +48,7 @@ Bagaimana jika ada perseteruan lintas komunitas?
 
 Bagaimana jika ada sekelompok orang&mdash;yang menurut mereka 'demi kebaikan bersama'&mdash;ingin ada peraturan A, B, dan C yang mengatur hidup seluruh rakyat?
 
-Maka, harus ada satu pihak penengah, yang bisa memediasi diskusi, sehingga ada keputusan bersama yang disepakati semua. Jika ada dua (atau lebih) pihak penengah, bisa kedua penengah itu berseteru.
+Maka, harus ada satu pihak penengah, yang bisa memediasi diskusi, sehingga ada keputusan bersama yang disepakati semua. Jika ada dua (atau lebih) pihak penengah, bisa jadi kedua penengah itu berseteru.
 
 Di kondisi NKRI sekarang, fungsi ini diampu oleh legislatif&mdash;meski dibantu eksekutif & yudikatif juga sesuai porsi masing-masing.
 
@@ -72,32 +72,47 @@ Sayangnya, sampai saat ini, belum ada organisasi sekuat kejaksaan-kepolisian di 
 
 Artinya, karena belum ada kejaksaan-kepolisian lintas negara&mdash;sebagaimana di kampung kecil nenek moyang kita terdahulu&mdash;kita perlu berlatih & mempersenjatai diri untuk tetap bertahan hidup saat tercetus konflik. Saat ini, di level negara, kita melakukannya dengan membiayai TNI.
 
-Serupa dengan kepolisian, jika organisasi seperti TNI ada dua, muncul peluang untuk perang saudara.
+Serupa dengan kepolisian, jika organisasi seperti TNI ada dua, muncul peluang untuk perang saudara. Angkatan bersenjata harus dimonopoli oleh satu pihak: negara.
 
 #### Kesimpulannya?
 
 1. Demi hidup yang aman & nyaman, kita tidak bisa hanya bergantung pada pihak swasta.
 2. Kita butuh negara.
-3. Menjaga & memperbaiki negara berarti memperbaiki kehidupan orang banyak.
+3. Menjaga & memperbaiki negara berarti menjadi pahlawan, karena memperbaiki kehidupan orang banyak.
 
 Sayangnya, organisasi kenegaraan&mdash;sebagaimana semua organisasi raksasa lainnya&mdash;sulit untuk efektif & efisien. Belum lagi tentang oknum-oknum pencuri uang negara.
 
-Realitanya, semua aparat negara & program pembangunan butuh uang. Jika tidak efektif-efisien, pengeluaran jadi lebih besar dari pemasukan. Solusi negara ada dua: hutang & cetak uang[^sun]. Keduanya perlu dikelola dengan hati-hati karena:
+Realitanya, semua aparat negara & program pembangunan butuh uang. Jika tidak efektif-efisien, anggaran jadi defisit (baca: pengeluaran lebih besar dari pemasukan). Menghadapi defisit, solusi negara ada dua: hutang & cetak uang[^sun]. Keduanya perlu dikelola dengan hati-hati karena:
 
 1. Hutang membebani anggaran di masa depan.
 2. Hutang berbunga.
 3. Hutang luar negeri bisa mengurangi independensi NKRI terhadap negara/lembaga pemberi hutang.
-4. Mencetak uang baru & mendistribusikannya ke dalam negeri akan menyebabkan inflasi. Inflasi 'mencuri' kekayaan kaum menengah & miskin. Itu karena mereka biasanya hanya menyimpan kekayaan dalam bentuk uang, baik di dompet maupun di rekening bank. Mereka tidak sadar nilai kekayaannya berkurang karena&mdash;tidak seperti inflasi di krisis moneter 98&mdash;terjadinya pelan-pelan.
+4. Mencetak uang baru & mendistribusikannya ke dalam negeri akan menyebabkan inflasi. Inflasi 'mencuri' kekayaan kaum menengah & miskin. Itu karena mereka biasanya hanya menyimpan kekayaan dalam bentuk uang, baik di dompet maupun di rekening bank. Mereka tidak sadar nilai kekayaannya berkurang karena&mdash;tidak seperti inflasi di krisis moneter 1998&mdash;terjadinya pelan-pelan.
 
-[^sun]: Kementerian Keuangan melakukan ini melalui penerbitan [Surat Utang Negara](https://id.wikipedia.org/wiki/Surat_Utang_Negara), yang selanjutnya dibeli oleh Bank Indonesia dengan uang baru. Bank Indonesia adalah [lembaga negara independen](https://www.bi.go.id/id/tentang-bi/governance/process/hubungan-lembaga-lain/Contents/Default.aspx), tidak sejajar dengan / di bawah kementerian atau lembaga apapun.
+[^sun]: Kementerian Keuangan melakukan ini melalui penerbitan [Surat Utang Negara](https://id.wikipedia.org/wiki/Surat_Utang_Negara), yang selanjutnya bisa dibeli oleh Bank Indonesia dengan uang baru. Bank Indonesia adalah [lembaga negara independen](https://www.bi.go.id/id/tentang-bi/governance/process/hubungan-lembaga-lain/Contents/Default.aspx), tidak sejajar dengan / di bawah kementerian atau lembaga apapun.
+
+{% include image.html
+            img="cuplikan-defisit-dan-hutang-apbn-2019.jpg"
+            title="Contoh defisit dan hutang APBN 2019"
+            caption="Angka dalam ribuan Rupiah. Sumber: <a href='https://www.kemenkeu.go.id/uuapbn'>UU ABPN 2019, lampiran 2, halaman 1 & 2</a>."
+            max-width="550px"
+            %}
+
+{% include image.html
+            img="jumlah-SBN-tahun-2019.jpg"
+            title="Jumlah SUN/SBN di APBN 2019"
+            caption="Diterbitkan hampir 389 triliun Rupiah Surat Berharga Negara (Surat Utang Negara + Surat Berharga Syari'ah Negara) demi menutup defisit anggaran 2019. Sumber: <a href='https://www.kemenkeu.go.id/uuapbn'>UU ABPN 2019, lampiran 1, halaman 1</a>."
+            max-width="550px"
+            %}
 
 Aplikasi perencanaan dan pemantau kinerja anggaran seperti Krisna ini wajib ada, jika ingin:
 
 1. Uang pajak yang kita beri ke negara dibelanjakan dengan lebih efektif dan efisien&mdash;karena perencanaan yang lebih baik dan defisit yang berkurang.
-2. Memperkecil kesenjangan sosial&mdash;akibat tergerusnya kekayaan kaum menengah/miskin oleh inflasi sementara kaum berpunya menabung aset.
+2. Menahan laju pelebaran kesenjangan sosial&mdash;akibat inflasi yang menggerus nilai uang kaum menengah/miskin di saat kaum kaya makin kaya lewat aset/kapital mereka.
 
 Krisna itu penting.
 
-Maka, sebagai pengguna atau pengembang Krisna, Anda telah membantu memperbaiki NKRI.
+Maka, sebagai pengguna atau pengembang Krisna, Anda telah menjadi pahlawan untuk NKRI.
 
-Lanjut ke poin berikutnya. [Apa Ujung Akhirnya?](/apa-ujung-akhirnya)
+Setelah sepakat akan posisi pentingnya, mari kita pahami Krisna. Lanjut ke poin berikutnya, [Apa Ujung Akhirnya?](/apa-ujung-akhirnya).
+

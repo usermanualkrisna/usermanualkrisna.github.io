@@ -35,13 +35,11 @@ Biasanya K/L punya nama depan yang khas:
 1. Lembaga (contoh: Lembaga Kebijakan Pengaadaan Barang/Jasa Pemerintah),
 1. Mahkamah (conton: Mahkamah Konstitusi).
 
-Berdasarkan basis data Krisna saat ini, ada 122 K/L.
-
 {% include image.html
-            img="jumlah-kl.png"
-            title="Jumlah Kementerian/Lembaga di Krisna"
+            img="jumlah-kl-di-apbn-2019.jpg"
+            title="Jumlah Kementerian/Lembaga di APBN 2019"
             max-width="450px"
-            caption="Bagian Anggaran di atas tidak dihitung karena secara struktural ada di bawah sebuah K/L bernama Kemenkeu"
+            caption="Berdasarkan APBN 2019, saat ini NKRI punya 86 K/L."
             %}
 
 Dari jumlah tersebut bisa disimpulkan bahwa&mdash;tidak seperti DPR&mdash;DPRD prov/kab/kota bukanlah K/L. Jumlah kab/kota di Indonesia saat ini saja sudah 514[^wjkk].
@@ -72,7 +70,7 @@ Seperti yang terlihat, pemda juga punya keterkaitan dengan K/L. Dinas pendidikan
 
 ##### 3. Presiden
 
-Sampai saat ini, presiden merupakan pengguna tidak langsung Krisna. Karena meskipun tidak mengakses langsung, semua perencanaan dan penganggaran NKRI sejatinya bermula dari arahan beliau. 
+Meski presiden belum jadi pengguna langsung Krisna, beliau tetap dibahas di sini. Karena meskipun tidak mengakses langsung, semua perencanaan dan penganggaran NKRI sejatinya bermula dari arahan beliau. 
 
 Presiden adalah atasan langsung dari menteri. Menteri memimpin kementerian&mdash;K/L yang memiliki jangkauan ke seluruh Indonesia lewat OPD-OPD terkait.
 
@@ -106,14 +104,14 @@ Harapan presiden, semua kegiatan tahunan K/L dan pemda mengacu pada PN di tahun 
 Seperti yang dilihat di atas, Bappenas membantu presiden mendetailkan rencana pembangunan beliau.
 
 {% include image.html
-            img="contoh-program-prioritas-di-RKP-2019.jpg"
+            img="cuplikan-program-prioritas-di-RKP-2019.jpg"
             title="Contoh Program Priortas di RKP 2019"
             caption="Berikut penjabaran dari PN ke Program Pemerintah (PP) di RKP 2019"
             max-width="550px"
             %}
 
 {% include image.html
-            img="contoh-sasaran-pp-di-rkp-2019.jpg"
+            img="cuplikan-sasaran-pp-di-rkp-2019.jpg"
             title="Contoh sasaran PP di RKP 2019"
             caption="Berikut sasaran dan indikator dari PP 'Peningkatan Produksi, Akses dan Kualitas Konsumsi Pangan'."
             max-width="550px"
@@ -122,7 +120,7 @@ Seperti yang dilihat di atas, Bappenas membantu presiden mendetailkan rencana pe
 Di RKP, PP memiliki target-target angka, didetailkan lagi menjadi Kegiatan Prioritas (KP), dan mulai memiliki informasi lokasi.
 
 {% include image.html
-            img="contoh-kegiatan-prioritas-di-rkp-2019.jpg"
+            img="cuplikan-kegiatan-prioritas-di-rkp-2019.jpg"
             title="Contoh Kegiatan Prioritas di RKP 2019"
             caption="Contoh Kegiatan Prioritas di RKP 2019."
             max-width="550px"
@@ -137,3 +135,4 @@ Begitu juga dengan pemda. Bappenas juga punya direktorat mitra pemda (Direktorat
 Muara dari perencanaan dan penganggaran adalah APBN&mdash;sudah dibahas banyak di tulisan sebelumnya.
 
 Kemenkeu mendapatkan data yang dihimpun oleh Bappenas dan K/L, lalu mengolahnya jadi Rancangan APBN (RAPBN) untuk selanjutnya disepakati oleh DPR.
+
