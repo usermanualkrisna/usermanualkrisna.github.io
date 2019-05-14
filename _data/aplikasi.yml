@@ -10,8 +10,14 @@ dasar:
     login-registrasi: "Cara Registrasi/Login"
 renjakl:
   title: "RenjaKL"
-  subtitle: "Rencana Kerja Kementrian/Lembaga"
+  subtitle: "Rencana Kerja Kementerian/Lembaga"
   menus:
     apa-itu-renjakl: "Apa Itu RenjaKL?"
-    cara-mengelola-visi-misi: "Cara Mengelola Visi Misi" 
-    cara-mengelola-sasaran-strategis: "Cara Mengelola Sasaran Strategis"
+    cara-mengelola-visi-misi-renjakl: "Cara Mengelola Visi Misi" 
+    cara-mengelola-sasaran-strategis-renjakl: "Cara Mengelola Sasaran Strategis"
+renstrakl:
+  title: "RenstraKL"
+  subtitle: "Rencana Kerja Strategis Kementerian/Lembaga"
+  menus:
+    apa-itu-renstrakl: "Apa Itu RenstraKL?"
+    cara-mengelola-visi-misi-tujuan-renstrakl: "Cara K/L Mengelola Visi, Misi, dan Tujuan"
