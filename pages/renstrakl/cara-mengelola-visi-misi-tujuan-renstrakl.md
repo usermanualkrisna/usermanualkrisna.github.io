@@ -5,7 +5,7 @@ permalink: cara-mengelola-visi-misi-tujuan-renstrakl
 ---
 
 {% include prasyarat.html 
-    url="https://[nama-kl].kl.krisna.systems/renjakl/2020/"
+    url="https://[nama-kl].kl.krisna.systems/renstrakl/2020/"
     role="penginput"
     aplikasi="Renja K/L"
     state="RenjaKL"

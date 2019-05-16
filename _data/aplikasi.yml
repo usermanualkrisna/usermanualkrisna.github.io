@@ -13,11 +13,13 @@ renjakl:
   subtitle: "Rencana Kerja Kementerian/Lembaga"
   menus:
     apa-itu-renjakl: "Apa Itu RenjaKL?"
-    cara-mengelola-visi-misi-renjakl: "Cara Mengelola Visi Misi" 
-    cara-mengelola-sasaran-strategis-renjakl: "Cara Mengelola Sasaran Strategis"
+    cara-kl-mengelola-visi-misi-renjakl: "Cara K/L Mengelola Visi Misi" 
+    cara-kl-mengelola-sasaran-strategis-renjakl: "Cara K/L Mengelola Sasaran Strategis"
+    cara-kl-mengelola-program-renjakl: "Cara K/L Mengelola Program"
 renstrakl:
   title: "RenstraKL"
   subtitle: "Rencana Kerja Strategis Kementerian/Lembaga"
   menus:
     apa-itu-renstrakl: "Apa Itu RenstraKL?"
+    bagaimana-proses-bisnis-renstrakl: "Bagaimana Proses Bisnis & Tahapan Pembuatan RenstraKL?"
     cara-mengelola-visi-misi-tujuan-renstrakl: "Cara K/L Mengelola Visi, Misi, dan Tujuan"

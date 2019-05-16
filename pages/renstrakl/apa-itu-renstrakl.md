@@ -22,7 +22,7 @@ Berikut informasi inti di Renstra K/L (strategi dan turunan-turunannya)
     caption="Sumber: <a href='/asset/dokumen/berita-negara-nomor-860-2014-penyusunan-rencana-strategi-kl.pdf'>Berita Negara no. 860 Tahun 2014, halaman 59</a>."
 %}
 
-##### Contoh
+##### Contoh Dokumen
 
 1. [Renstra 2015-2019 Kementerian PUPR](/asset/dokumen/renstrakl-2015-2019-kemenPUPR.pdf)
 2. [Renstra 2015-2019 Kemendikbud](/asset/dokumen/renstrakl-2015-2019-kemendikbud.pdf)
