@@ -42,6 +42,8 @@ Indikator Kinerja Sasaran Strategis adalah ukuran kuantitatif yang menggambarkan
     max-width="550px"
 %}
 
+Contoh satuan: unit, presentase, hektar, dll.
+
 {% include image.html
     img="https://user-images.githubusercontent.com/2253841/57834885-7a07e800-77e7-11e9-84c4-e636b19e920a.png"
     max-width="550px"
