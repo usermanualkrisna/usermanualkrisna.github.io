@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: User Manual Krisna
+title: Produk-Produk CyberGL
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Tujuan situs ini: 1) panduan pengguna Krisna.systems, 2) materi onboarding pengembang baru,

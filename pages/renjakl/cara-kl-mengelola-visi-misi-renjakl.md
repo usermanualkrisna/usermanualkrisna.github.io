@@ -8,7 +8,7 @@ permalink: cara-kl-mengelola-visi-misi-renjakl
     url="https://[nama-kl].kl.krisna.systems/renjakl/2020/"
     role="penginput"
     aplikasi="Renja K/L"
-    state="RenjaKL"
+    state="RENJAKL"
 %}
 
 #### Akses Halaman

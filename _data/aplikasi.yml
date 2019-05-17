@@ -1,5 +1,5 @@
 dasar:
-  title: "User Manual Aplikasi Krisna"
+  title: "Krisna's Knowledge Base"
   subtitle: "Dibuat secara <a href='https://github.com/usermanualkrisna/usermanualkrisna.github.io'>urun daya</a>." 
   menus:
     dasar: "Informasi Dasar"
@@ -17,6 +17,8 @@ renjakl:
     cara-kl-mengelola-sasaran-strategis-renjakl: "Cara K/L Mengelola Sasaran Strategis"
     cara-kl-mengelola-program-renjakl: "Cara K/L Mengelola Program"
     cara-kl-mengelola-kegiatan-renjakl: "Cara K/L Mengelola Kegiatan"
+    cara-mitra-kl-di-bappenas-menelaah-renjakl: "Cara Mitra K/L di Bappenas Menelaah"
+    cara-mitra-kl-di-kemenkeu-menelaah-renjakl: "Cara Mitra K/L di Kemenkeu Menelaah"
 renstrakl:
   title: "RenstraKL"
   subtitle: "Rencana Kerja Strategis Kementerian/Lembaga"
