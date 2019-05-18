@@ -77,5 +77,5 @@ Begitu juga dengan pemda. Bappenas juga punya direktorat mitra pemda (Direktorat
 Berikut hubungannya kesemuanya.
 
 {% include image.html
-            img="photo6253580431924504699.jpg"
+            img="https://user-images.githubusercontent.com/2253841/57962401-6d4ad780-7940-11e9-8ad3-cec03659f372.png"
 %}
